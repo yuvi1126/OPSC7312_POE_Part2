@@ -1,6 +1,8 @@
 # OPSC7312_POE_Part2
 Team CDJKY Part 2 Submission
 
+Please note all code is under the "master" branch
+
 This is a group submission, on behalf of Yuvaan Pather, Joshua Lester Reddy, Cian Luka Brink, Kayur Betchu, Dylan Pather
 
 Repo Link:https://github.com/yuvi1126/OPSC7312_POE_Part2.git
