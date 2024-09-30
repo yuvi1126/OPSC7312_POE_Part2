@@ -1,7 +1,20 @@
 # OPSC7312_POE_Part2
 Team CDJKY Part 2 Submission
 
+FitProPlus
+FitProPlus is a comprehensive fitness tracking app designed to help users log workouts, track calories, engage with friends, and view leaderboards. The app aims to make fitness easier by providing user-friendly features that promote consistency and motivation.
 
+Table of Contents
+Introduction
+How to Obtain the App
+How to Run the App
+How to Use the App
+Logging Workouts
+Tracking Calories
+Friends and Leaderboards
+Settings
+App Features
+Technologies Used
 
 Introduction:
 
