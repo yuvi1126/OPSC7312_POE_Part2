@@ -1,7 +1,8 @@
 # OPSC7312_POE_Part2
 Team CDJKY Part 2 Submission
 
-Repo Link:
+Repo Link:https://github.com/yuvi1126/OPSC7312_POE_Part2.git
+
 YouTube Link:
 
 FitProPlus
